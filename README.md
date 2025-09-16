@@ -1,1 +1,1 @@
-# Maven-Cycles-Dashboard
+# Maven Cycles Dashboard
